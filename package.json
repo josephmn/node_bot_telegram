@@ -1,0 +1,20 @@
+{
+  "name": "node_bot_telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
